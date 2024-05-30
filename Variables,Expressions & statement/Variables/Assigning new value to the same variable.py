@@ -39,5 +39,5 @@ print(myName)
 # note: we cannot use the python keywords like if, ifelse, and, as, del, from, None, True, False, def, import etc...
 # we have 35 keywords in python that cannot be used as the variable name, those are called reserved names in python.
 
-class = "karthik"
-print(class) # it gives the syntax error.
+# class = "karthik"
+# print(class) # it gives the syntax error.
