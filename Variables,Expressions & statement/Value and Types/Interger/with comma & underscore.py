@@ -4,5 +4,10 @@
 print(1,000,000)
 
 # instead of (comma,) if we use (underscore_) the i.e 1_000_000, it will execute properly, without any logical errors.
+# but the python will ignore the underscore in the output.
+# this is used to making our code readable.
 
 print(1_000_000)
+
+
+# these whole numbers, no matter if they are positive or negative, they are called integers in programming.
