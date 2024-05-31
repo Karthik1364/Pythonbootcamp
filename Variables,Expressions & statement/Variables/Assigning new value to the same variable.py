@@ -19,11 +19,11 @@ print(name) # it prints the name saravanan
 # use case: 2
 name = "karthik"
 name = "saravanan" # i have given the new value to this variable,
-print(name) # it print the value saravanan.
+print(name) # it prints the value saravanan.
 
 # after this assignment, whenever you refer to name, it's going to print saravanan instead of karthik.
 # note: this means that the variable keeps the last value that we assigned to it.
-# note: we cannot start the variable name with the numbers, because it give syntax error.
+# note: we cannot start the variable name with the numbers (44name), because it give syntax error.
 # note: we can start the varible with the uppercase and it's better to start the variable with the lowercase.
 # note: we can use underscore to our variable.
 my_name = "karthik"
@@ -34,10 +34,10 @@ myName = "karthik"
 print(myName)
 
 # keep in mind that if we give a variable an illegal name, you will get syntax error.
-# note: illegal names like -> we cannot start the variable name with the numbers,
-# note: we cannot use characters like @ characters, before or after the variable name.
-# note: we cannot use the python keywords like if, ifelse, and, as, del, from, None, True, False, def, import etc...
-# we have 35 keywords in python that cannot be used as the variable name, those are called reserved names in python.
+# note: illegal names like -> we cannot start the variable name with the numbers(44name).
+# note: we cannot use characters like @ characters, before or after the variable name(@name)(name@).
+# note: we cannot use the python keywords like (if, ifelse, and, as, del, from, None, True, False, def, import etc...)
+# we have "35 keywords" in python that cannot be used as the variable name, those are called "reserved names" in python.
 
 # class = "karthik"
 # print(class) # it gives the syntax error.
