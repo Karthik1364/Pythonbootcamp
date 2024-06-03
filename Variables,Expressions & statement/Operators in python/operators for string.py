@@ -35,7 +35,3 @@ print(name *4)
 
 #### so as the beginner you need to know whenever someone asks expression in python? 
 ###### everything relates to variables, operators and values are called expressions.
-
-
-
-
