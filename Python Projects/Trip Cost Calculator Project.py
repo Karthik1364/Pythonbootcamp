@@ -23,3 +23,11 @@
 # Total Cost: $170.0
 
 # Solution:
+print("Welcome to the Trip Cost Calculator!")
+number_of_days = int(input("How many days will you stay? "))
+hotel_price = float(input("How much does hotel costper night? $"))
+flight_price = float(input("How much does flight cost? $"))
+rental_car_price = float(input("If you need rental car please enter the price otherwise enter zero $"))
+other_expenses = float(input("Enter other expenses $"))
+total_cost = number_of_days * hotel_price + flight_price + rental_car_price * number_of_days + other_expenses
+print(f"Total Cost: ${total_cost}")
