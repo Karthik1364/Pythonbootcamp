@@ -12,4 +12,6 @@ weeks = 52 * int(year)
 print(f'There are {weeks} weeks in {year} years')
 
 # note: here the f should be placed before the double or single quotes.
-# note: and we are putting the variables (that needs to be converted) inside curly braces over here.
+# note: and we are putting the variables (that needs to be converted) inside curly braces "{}" over here.
+
+# by using "f string" you cut down a lot of manual work of inserting different data types of data into string.
