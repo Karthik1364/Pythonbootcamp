@@ -22,3 +22,11 @@ weeks = years * 52
 con1 = str(weeks)
 con2 = str(years)
 print('There are ' + con1, 'weeks in ' + con2, 'years')
+
+# OR
+
+# Using "f string"
+
+years = int(input('Enter number of years '))
+weeks = int(years * 52)
+print(f"There are {weeks} weeks in {years} years")
