@@ -16,7 +16,7 @@ print("Hello" + "Karthik") # in python we call it as concatenation.
 #print("Hello" * "Karthik") # here we cannot use "*" symbol for two strings.
 
 # Ex: 3 
-print("Hello " * 4) #we can use space, it is concatenating Hello three times.
+print("Hello " * 4) # we can use space, it is concatenating Hello three times.
 
 
 ### While we are working with operators, the most common word that we are using is expression.
