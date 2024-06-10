@@ -10,6 +10,7 @@
 # Hello Elshad.
 # Wellcome to the Python
 
+# Solution:
 name = input("Enter the name: ")
-print(f"Hello {name}")
+print(f"Hello {name}") # here the "f string" is used for concatenation.
 print("Welcome to the Python")
