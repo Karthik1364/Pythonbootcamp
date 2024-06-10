@@ -2,7 +2,7 @@
 
 # what is comments in python?
 
-# Basically this kind of notes, we are adding to our course to remember things very easily.
+# Basically this is a kind of notes, we are adding to our course to remember things very easily.
 # as programs get bigger and more complicated, they grt more difficult to understand.
 # so whenever we write a complex program, when we come back to our code in the future, if you have any problem, so it is very difficult to understand what is our code doing.
 # so fot those cases, python comments are very useful.
