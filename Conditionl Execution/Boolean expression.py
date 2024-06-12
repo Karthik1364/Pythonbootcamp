@@ -22,7 +22,12 @@ print(1 == 1) # in this case it returns True.
 # note: if you use "==" sign over here, it's becoming an expression.
 
 # Ex: 2
-print(1==2) # in this case it returns False.
+print(1 == 2) # in this case it returns False.
+
+# Ex: 3 
+print(type(True)) # here the True belongs to "bool" type.
+print(type(False)) # here the False belongs to "bool" type.
+
 
 
 
