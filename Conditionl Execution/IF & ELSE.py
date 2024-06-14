@@ -58,7 +58,7 @@ else:
 print("Welcome to Mortgage Calculator!")
 salary = int(input("Enter your salary: $"))
 if salary > 2000:
-    pass # when writing a code and you don't know what you are going to put over here, for example if the conditio is met, you don't remember that what you are going to put over here, so you can put just "pass" keyword over here.
+    pass # when writing a code and you don't know what you are going to put over here, for example if the condition is met, you don't remember that what you are going to put over here, so you can put just "pass" keyword over here.
 else:
     print("sorry, you are not eligible")
 
