@@ -48,4 +48,4 @@ else:
     print("Sorry! you are not eligible for the mortgage")
 
 # Code line 45: In python as well as in many other languages, there is actually slightly shorter way of writing this.
-#               So when you want to decrease the current value that is held in a variable and you want to save it back to the same variable here, you can simply use minus and equal sign over here (-=).  
+############### So when you want to decrease the current value that is held in a variable and you want to save it back to the same variable here, you can simply use minus and equal sign over here (-=).  
