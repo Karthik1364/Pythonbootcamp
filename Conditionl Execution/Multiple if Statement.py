@@ -1,7 +1,7 @@
 # Multiple if Statement:
 
 # In the chain condition we saw how we colud use if/elif statements for multiple conditions.
-# But here you need to be very careful that even though we have multiple conditions, we are only checking on condition.
+# But here you need to be very careful that even though we have multiple conditions, we are only checking on one condition.
 
 # id condition1:   # here is condition 1, if the condition 1 is not met, we so with condition 2.
 #   do A
@@ -10,7 +10,7 @@
 # else:            # otherwise we are going to do else statement over here.
 #   do this
 
-# because, if this first condition is ture, then we are going to do A and we are going to bypass everything.
+# because, if this first condition is true, then we are going to do A and we are going to bypass everything.
 # if this not true, we are going to continue to the second condition and we are going to chech that if the second condition is true, we are going to do B and we are going to bypass else over here.
 
 #### note: what if you were in a situation where you need to check for multiple conditions, even the previous one was already true.
