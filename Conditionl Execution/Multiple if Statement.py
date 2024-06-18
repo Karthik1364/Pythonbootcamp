@@ -33,13 +33,13 @@ if salary > 2000:
     credit_score = int(input("Enter you credit score: "))
     if credit_score > 800:
         rate = 4
-        print("your interest is 4%")
+        print("your interest rate is 4%")
     elif credit_score > 750:
         rate = 6
         print("your interest rate is 6%")
     else:
         rate = 8
-        print("your interest is 8%")
+        print("your interest rate is 8%")
     disability = input("Are a disabled person: ")
     if disability == "y":
         rate -= 2 # We are decreasing rate by two over here.
