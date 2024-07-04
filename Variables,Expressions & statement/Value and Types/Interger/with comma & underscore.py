@@ -1,4 +1,4 @@
-# in many countries the large numbers comes this the (comma,) inbetween i.e 1,000,000 -> this won't work in python.
+# in many countries the large numbers comes with this (comma,) inbetween i.e 1,000,000 -> this won't work in python.
 # it basically comes under the logical error (the code will run without error, but execute it wrongly).
 
 print(1,000,000)
