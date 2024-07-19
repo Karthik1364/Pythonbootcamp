@@ -9,7 +9,8 @@
 # basically if you want to write a comment in python, it starts with "#" symbol.
 
 # The name variable takes name from console.
-name = input("What is your name? ")
+name = input("""What is your name? 
+""")
 print("Hello" + name)
 
 # three reasons for using comments in our code:
